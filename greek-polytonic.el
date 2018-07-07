@@ -6,7 +6,7 @@
 ;; Keywords: i18n, multilingual, input method, greek
 ;; Created: 11 Dec 2016
 ;; URL: https://github.com/jhanschoo/quail-greek-polytonic
-;; Version: 1.0.1
+;; Version: 1.0.2
 
 ;;; Commentary:
 
