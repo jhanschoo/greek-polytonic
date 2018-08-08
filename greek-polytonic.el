@@ -4,7 +4,6 @@
 
 ;; Author: Johannes Choo <jhanschoo@gmail.com>
 ;; Version: 1.0.3
-;; Package-Requires: ((emacs "20"))
 ;; Created: 11 Dec 2016
 ;; Keywords: i18n, multilingual, input method, greek
 ;; URL: https://github.com/jhanschoo/quail-greek-polytonic
@@ -431,7 +430,7 @@ Greek characters."
  ("\\9" ?9)
  ("\\(" ?()
  ("\\0" ?0)
- ("\\)" ?))
+ ("\\)" ?\))
  ("\\-" ?-)
  ("\\_" ?_)
  ("\\=" ?=)
