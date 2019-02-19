@@ -512,14 +512,12 @@ Greek characters."
 
   ;; Some useful punctuation on AltGr keys of US keyboards provided
   ;; behind a "|" escape
-  ("|[" ?“) ;; U+201C LEFT DOUBLE QUOTATION MARK
-  ("|{" ?”) ;; U+201D RIGHT DOUBLE QUOTATION MARK
-  ("|]" ?‘) ;; U+2018 LEFT SINGLE QUOTATION MARK
-  ("|}" ?’) ;; U+2019 RIGHT SINGLE QUOTATION MARK
-  ("|\\" ?«) ;; U+00AB LEFT-POINTING DOUBLE ANGLE QUOTATION MARK
-  ("||" ?») ;; U+00BB RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK
+  ("|[" ?“) ; U+201C LEFT DOUBLE QUOTATION MARK
+  ("|{" ?”) ; U+201D RIGHT DOUBLE QUOTATION MARK
+  ("|]" ?‘) ; U+2018 LEFT SINGLE QUOTATION MARK
+  ("|}" ?’) ; U+2019 RIGHT SINGLE QUOTATION MARK
+  ("|\\" ?«) ; U+00AB LEFT-POINTING DOUBLE ANGLE QUOTATION MARK
+  ("||" ?»)) ; U+00BB RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK
 
- )
-
- (provide 'greek-polytonic)
+(provide 'greek-polytonic)
 ;;; greek-polytonic.el ends here
