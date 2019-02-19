@@ -3,11 +3,11 @@
 ;; Copyright (C) 2016-2019 Johannes Choo
 
 ;; Author: Johannes Choo <jhanschoo@gmail.com>
-;; Version: 1.0.4
+;; Version: 1.0.5
 ;; Created: 11 Dec 2016
 ;; Package-Requires: ((emacs "24"))
 ;; Keywords: i18n, multilingual, input method, greek
-;; URL: https://github.com/jhanschoo/quail-greek-polytonic
+;; URL: https://github.com/jhanschoo/greek-polytonic
 
 ;;; Commentary:
 
