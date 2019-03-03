@@ -64,7 +64,6 @@
 
 (require 'quail)
 
-;;;###autoload
 (quail-define-package
  "greek-polytonic" "Greek" "ἑ" nil
  "A polytonic Greek layout based on Mac and Windows polytonic Greek
@@ -72,7 +71,6 @@ layouts, with several modifications, to write UTF-8 encoded polytonic
 Greek characters."
  nil t t t t nil nil nil nil nil t)
 
-;;;###autoload
 (quail-define-rules
 
   ;; lowercase keyboard
